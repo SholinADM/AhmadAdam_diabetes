@@ -1,4 +1,4 @@
-#%%
+#%%Hehe
 import streamlit as st
 import pandas as pd
 import pickle
@@ -46,3 +46,4 @@ if submit:
         st.warning(" ❗️❗️❗️YOU HAVE A HIGH RISK OF GETTING DIABETES!!! 😱😱😱")
         st.write("Run away!!! You can't escape once you sick but you can get healthier now.")
         st.snow()
+
